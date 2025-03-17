@@ -1,0 +1,1468 @@
+{
+    "cod": "200",
+    "message": 0,
+    "cnt": 40,
+    "list": [
+        {
+            "dt": 1742212800,
+            "main": {
+                "temp": 2.35,
+                "feels_like": -0.53,
+                "temp_min": 2.35,
+                "temp_max": 2.83,
+                "pressure": 1012,
+                "sea_level": 1012,
+                "grnd_level": 958,
+                "humidity": 96,
+                "temp_kf": -0.48
+            },
+            "weather": [
+                {
+                    "id": 600,
+                    "main": "Snow",
+                    "description": "ninsoare u\u0219oar\u0103",
+                    "icon": "13d"
+                }
+            ],
+            "clouds": {
+                "all": 100
+            },
+            "wind": {
+                "speed": 2.82,
+                "deg": 300,
+                "gust": 4.81
+            },
+            "visibility": 715,
+            "pop": 1,
+            "snow": {
+                "3h": 0.98
+            },
+            "sys": {
+                "pod": "d"
+            },
+            "dt_txt": "2025-03-17 12:00:00"
+        },
+        {
+            "dt": 1742223600,
+            "main": {
+                "temp": 2.38,
+                "feels_like": 0.19,
+                "temp_min": 2.38,
+                "temp_max": 2.52,
+                "pressure": 1012,
+                "sea_level": 1012,
+                "grnd_level": 959,
+                "humidity": 98,
+                "temp_kf": -0.14
+            },
+            "weather": [
+                {
+                    "id": 600,
+                    "main": "Snow",
+                    "description": "ninsoare u\u0219oar\u0103",
+                    "icon": "13d"
+                }
+            ],
+            "clouds": {
+                "all": 100
+            },
+            "wind": {
+                "speed": 2.11,
+                "deg": 309,
+                "gust": 5.39
+            },
+            "pop": 1,
+            "snow": {
+                "3h": 1.46
+            },
+            "sys": {
+                "pod": "d"
+            },
+            "dt_txt": "2025-03-17 15:00:00"
+        },
+        {
+            "dt": 1742234400,
+            "main": {
+                "temp": 2.04,
+                "feels_like": -2,
+                "temp_min": 2.04,
+                "temp_max": 2.04,
+                "pressure": 1015,
+                "sea_level": 1015,
+                "grnd_level": 961,
+                "humidity": 75,
+                "temp_kf": 0
+            },
+            "weather": [
+                {
+                    "id": 601,
+                    "main": "Snow",
+                    "description": "ninsoare",
+                    "icon": "13n"
+                }
+            ],
+            "clouds": {
+                "all": 100
+            },
+            "wind": {
+                "speed": 4.36,
+                "deg": 35,
+                "gust": 7.48
+            },
+            "visibility": 10000,
+            "pop": 1,
+            "snow": {
+                "3h": 2.15
+            },
+            "sys": {
+                "pod": "n"
+            },
+            "dt_txt": "2025-03-17 18:00:00"
+        },
+        {
+            "dt": 1742245200,
+            "main": {
+                "temp": -0.59,
+                "feels_like": -5.31,
+                "temp_min": -0.59,
+                "temp_max": -0.59,
+                "pressure": 1019,
+                "sea_level": 1019,
+                "grnd_level": 964,
+                "humidity": 63,
+                "temp_kf": 0
+            },
+            "weather": [
+                {
+                    "id": 804,
+                    "main": "Clouds",
+                    "description": "cer acoperit de nori",
+                    "icon": "04n"
+                }
+            ],
+            "clouds": {
+                "all": 100
+            },
+            "wind": {
+                "speed": 4.44,
+                "deg": 39,
+                "gust": 7.52
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+                "pod": "n"
+            },
+            "dt_txt": "2025-03-17 21:00:00"
+        },
+        {
+            "dt": 1742256000,
+            "main": {
+                "temp": -1.8,
+                "feels_like": -5.89,
+                "temp_min": -1.8,
+                "temp_max": -1.8,
+                "pressure": 1022,
+                "sea_level": 1022,
+                "grnd_level": 967,
+                "humidity": 62,
+                "temp_kf": 0
+            },
+            "weather": [
+                {
+                    "id": 804,
+                    "main": "Clouds",
+                    "description": "cer acoperit de nori",
+                    "icon": "04n"
+                }
+            ],
+            "clouds": {
+                "all": 100
+            },
+            "wind": {
+                "speed": 3.25,
+                "deg": 45,
+                "gust": 6.56
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+                "pod": "n"
+            },
+            "dt_txt": "2025-03-18 00:00:00"
+        },
+        {
+            "dt": 1742266800,
+            "main": {
+                "temp": -3.7,
+                "feels_like": -7.83,
+                "temp_min": -3.7,
+                "temp_max": -3.7,
+                "pressure": 1025,
+                "sea_level": 1025,
+                "grnd_level": 969,
+                "humidity": 65,
+                "temp_kf": 0
+            },
+            "weather": [
+                {
+                    "id": 804,
+                    "main": "Clouds",
+                    "description": "cer acoperit de nori",
+                    "icon": "04n"
+                }
+            ],
+            "clouds": {
+                "all": 100
+            },
+            "wind": {
+                "speed": 2.89,
+                "deg": 31,
+                "gust": 5.22
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+                "pod": "n"
+            },
+            "dt_txt": "2025-03-18 03:00:00"
+        },
+        {
+            "dt": 1742277600,
+            "main": {
+                "temp": -3.24,
+                "feels_like": -7.8,
+                "temp_min": -3.24,
+                "temp_max": -3.24,
+                "pressure": 1028,
+                "sea_level": 1028,
+                "grnd_level": 972,
+                "humidity": 52,
+                "temp_kf": 0
+            },
+            "weather": [
+                {
+                    "id": 803,
+                    "main": "Clouds",
+                    "description": "cer fragmentat",
+                    "icon": "04d"
+                }
+            ],
+            "clouds": {
+                "all": 75
+            },
+            "wind": {
+                "speed": 3.44,
+                "deg": 44,
+                "gust": 6.08
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+                "pod": "d"
+            },
+            "dt_txt": "2025-03-18 06:00:00"
+        },
+        {
+            "dt": 1742288400,
+            "main": {
+                "temp": -0.19,
+                "feels_like": -4.28,
+                "temp_min": -0.19,
+                "temp_max": -0.19,
+                "pressure": 1029,
+                "sea_level": 1029,
+                "grnd_level": 974,
+                "humidity": 36,
+                "temp_kf": 0
+            },
+            "weather": [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "cer senin",
+                    "icon": "01d"
+                }
+            ],
+            "clouds": {
+                "all": 1
+            },
+            "wind": {
+                "speed": 3.67,
+                "deg": 65,
+                "gust": 4.75
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+                "pod": "d"
+            },
+            "dt_txt": "2025-03-18 09:00:00"
+        },
+        {
+            "dt": 1742299200,
+            "main": {
+                "temp": 2.35,
+                "feels_like": 0.06,
+                "temp_min": 2.35,
+                "temp_max": 2.35,
+                "pressure": 1028,
+                "sea_level": 1028,
+                "grnd_level": 974,
+                "humidity": 32,
+                "temp_kf": 0
+            },
+            "weather": [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "cer senin",
+                    "icon": "01d"
+                }
+            ],
+            "clouds": {
+                "all": 3
+            },
+            "wind": {
+                "speed": 2.2,
+                "deg": 67,
+                "gust": 3.47
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+                "pod": "d"
+            },
+            "dt_txt": "2025-03-18 12:00:00"
+        },
+        {
+            "dt": 1742310000,
+            "main": {
+                "temp": 2.27,
+                "feels_like": -0.2,
+                "temp_min": 2.27,
+                "temp_max": 2.27,
+                "pressure": 1029,
+                "sea_level": 1029,
+                "grnd_level": 974,
+                "humidity": 35,
+                "temp_kf": 0
+            },
+            "weather": [
+                {
+                    "id": 801,
+                    "main": "Clouds",
+                    "description": "c\u00e2\u021biva nori",
+                    "icon": "02d"
+                }
+            ],
+            "clouds": {
+                "all": 18
+            },
+            "wind": {
+                "speed": 2.36,
+                "deg": 302,
+                "gust": 2.25
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+                "pod": "d"
+            },
+            "dt_txt": "2025-03-18 15:00:00"
+        },
+        {
+            "dt": 1742320800,
+            "main": {
+                "temp": -0.93,
+                "feels_like": -3.01,
+                "temp_min": -0.93,
+                "temp_max": -0.93,
+                "pressure": 1031,
+                "sea_level": 1031,
+                "grnd_level": 976,
+                "humidity": 54,
+                "temp_kf": 0
+            },
+            "weather": [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "cer senin",
+                    "icon": "01n"
+                }
+            ],
+            "clouds": {
+                "all": 8
+            },
+            "wind": {
+                "speed": 1.62,
+                "deg": 336,
+                "gust": 1.52
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+                "pod": "n"
+            },
+            "dt_txt": "2025-03-18 18:00:00"
+        },
+        {
+            "dt": 1742331600,
+            "main": {
+                "temp": -1.84,
+                "feels_like": -1.84,
+                "temp_min": -1.84,
+                "temp_max": -1.84,
+                "pressure": 1032,
+                "sea_level": 1032,
+                "grnd_level": 977,
+                "humidity": 62,
+                "temp_kf": 0
+            },
+            "weather": [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "cer senin",
+                    "icon": "01n"
+                }
+            ],
+            "clouds": {
+                "all": 0
+            },
+            "wind": {
+                "speed": 1.18,
+                "deg": 347,
+                "gust": 1.13
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+                "pod": "n"
+            },
+            "dt_txt": "2025-03-18 21:00:00"
+        },
+        {
+            "dt": 1742342400,
+            "main": {
+                "temp": -1.99,
+                "feels_like": -1.99,
+                "temp_min": -1.99,
+                "temp_max": -1.99,
+                "pressure": 1033,
+                "sea_level": 1033,
+                "grnd_level": 977,
+                "humidity": 61,
+                "temp_kf": 0
+            },
+            "weather": [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "cer senin",
+                    "icon": "01n"
+                }
+            ],
+            "clouds": {
+                "all": 0
+            },
+            "wind": {
+                "speed": 0.43,
+                "deg": 191,
+                "gust": 0.61
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+                "pod": "n"
+            },
+            "dt_txt": "2025-03-19 00:00:00"
+        },
+        {
+            "dt": 1742353200,
+            "main": {
+                "temp": -2.38,
+                "feels_like": -2.38,
+                "temp_min": -2.38,
+                "temp_max": -2.38,
+                "pressure": 1033,
+                "sea_level": 1033,
+                "grnd_level": 977,
+                "humidity": 61,
+                "temp_kf": 0
+            },
+            "weather": [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "cer senin",
+                    "icon": "01n"
+                }
+            ],
+            "clouds": {
+                "all": 5
+            },
+            "wind": {
+                "speed": 0.2,
+                "deg": 156,
+                "gust": 0.4
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+                "pod": "n"
+            },
+            "dt_txt": "2025-03-19 03:00:00"
+        },
+        {
+            "dt": 1742364000,
+            "main": {
+                "temp": -1.03,
+                "feels_like": -1.03,
+                "temp_min": -1.03,
+                "temp_max": -1.03,
+                "pressure": 1034,
+                "sea_level": 1034,
+                "grnd_level": 978,
+                "humidity": 51,
+                "temp_kf": 0
+            },
+            "weather": [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "cer senin",
+                    "icon": "01d"
+                }
+            ],
+            "clouds": {
+                "all": 6
+            },
+            "wind": {
+                "speed": 0.76,
+                "deg": 205,
+                "gust": 0.85
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+                "pod": "d"
+            },
+            "dt_txt": "2025-03-19 06:00:00"
+        },
+        {
+            "dt": 1742374800,
+            "main": {
+                "temp": 2.84,
+                "feels_like": 0.48,
+                "temp_min": 2.84,
+                "temp_max": 2.84,
+                "pressure": 1034,
+                "sea_level": 1034,
+                "grnd_level": 979,
+                "humidity": 36,
+                "temp_kf": 0
+            },
+            "weather": [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "cer senin",
+                    "icon": "01d"
+                }
+            ],
+            "clouds": {
+                "all": 0
+            },
+            "wind": {
+                "speed": 2.36,
+                "deg": 289,
+                "gust": 3.01
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+                "pod": "d"
+            },
+            "dt_txt": "2025-03-19 09:00:00"
+        },
+        {
+            "dt": 1742385600,
+            "main": {
+                "temp": 5.41,
+                "feels_like": 2.82,
+                "temp_min": 5.41,
+                "temp_max": 5.41,
+                "pressure": 1032,
+                "sea_level": 1032,
+                "grnd_level": 977,
+                "humidity": 35,
+                "temp_kf": 0
+            },
+            "weather": [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "cer senin",
+                    "icon": "01d"
+                }
+            ],
+            "clouds": {
+                "all": 0
+            },
+            "wind": {
+                "speed": 3.25,
+                "deg": 311,
+                "gust": 3.93
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+                "pod": "d"
+            },
+            "dt_txt": "2025-03-19 12:00:00"
+        },
+        {
+            "dt": 1742396400,
+            "main": {
+                "temp": 5.34,
+                "feels_like": 3.11,
+                "temp_min": 5.34,
+                "temp_max": 5.34,
+                "pressure": 1031,
+                "sea_level": 1031,
+                "grnd_level": 977,
+                "humidity": 39,
+                "temp_kf": 0
+            },
+            "weather": [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "cer senin",
+                    "icon": "01d"
+                }
+            ],
+            "clouds": {
+                "all": 0
+            },
+            "wind": {
+                "speed": 2.74,
+                "deg": 326,
+                "gust": 3.74
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+                "pod": "d"
+            },
+            "dt_txt": "2025-03-19 15:00:00"
+        },
+        {
+            "dt": 1742407200,
+            "main": {
+                "temp": 1.22,
+                "feels_like": 1.22,
+                "temp_min": 1.22,
+                "temp_max": 1.22,
+                "pressure": 1032,
+                "sea_level": 1032,
+                "grnd_level": 977,
+                "humidity": 55,
+                "temp_kf": 0
+            },
+            "weather": [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "cer senin",
+                    "icon": "01n"
+                }
+            ],
+            "clouds": {
+                "all": 0
+            },
+            "wind": {
+                "speed": 1.17,
+                "deg": 345,
+                "gust": 1.16
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+                "pod": "n"
+            },
+            "dt_txt": "2025-03-19 18:00:00"
+        },
+        {
+            "dt": 1742418000,
+            "main": {
+                "temp": -0.02,
+                "feels_like": -0.02,
+                "temp_min": -0.02,
+                "temp_max": -0.02,
+                "pressure": 1033,
+                "sea_level": 1033,
+                "grnd_level": 978,
+                "humidity": 61,
+                "temp_kf": 0
+            },
+            "weather": [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "cer senin",
+                    "icon": "01n"
+                }
+            ],
+            "clouds": {
+                "all": 0
+            },
+            "wind": {
+                "speed": 1.15,
+                "deg": 48,
+                "gust": 1.1
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+                "pod": "n"
+            },
+            "dt_txt": "2025-03-19 21:00:00"
+        },
+        {
+            "dt": 1742428800,
+            "main": {
+                "temp": -0.34,
+                "feels_like": -0.34,
+                "temp_min": -0.34,
+                "temp_max": -0.34,
+                "pressure": 1034,
+                "sea_level": 1034,
+                "grnd_level": 978,
+                "humidity": 62,
+                "temp_kf": 0
+            },
+            "weather": [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "cer senin",
+                    "icon": "01n"
+                }
+            ],
+            "clouds": {
+                "all": 0
+            },
+            "wind": {
+                "speed": 0.67,
+                "deg": 104,
+                "gust": 0.7
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+                "pod": "n"
+            },
+            "dt_txt": "2025-03-20 00:00:00"
+        },
+        {
+            "dt": 1742439600,
+            "main": {
+                "temp": -0.84,
+                "feels_like": -0.84,
+                "temp_min": -0.84,
+                "temp_max": -0.84,
+                "pressure": 1034,
+                "sea_level": 1034,
+                "grnd_level": 978,
+                "humidity": 64,
+                "temp_kf": 0
+            },
+            "weather": [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "cer senin",
+                    "icon": "01n"
+                }
+            ],
+            "clouds": {
+                "all": 0
+            },
+            "wind": {
+                "speed": 0.8,
+                "deg": 88,
+                "gust": 0.77
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+                "pod": "n"
+            },
+            "dt_txt": "2025-03-20 03:00:00"
+        },
+        {
+            "dt": 1742450400,
+            "main": {
+                "temp": 1.1,
+                "feels_like": 1.1,
+                "temp_min": 1.1,
+                "temp_max": 1.1,
+                "pressure": 1034,
+                "sea_level": 1034,
+                "grnd_level": 979,
+                "humidity": 56,
+                "temp_kf": 0
+            },
+            "weather": [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "cer senin",
+                    "icon": "01d"
+                }
+            ],
+            "clouds": {
+                "all": 0
+            },
+            "wind": {
+                "speed": 0.57,
+                "deg": 115,
+                "gust": 0.76
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+                "pod": "d"
+            },
+            "dt_txt": "2025-03-20 06:00:00"
+        },
+        {
+            "dt": 1742461200,
+            "main": {
+                "temp": 5.49,
+                "feels_like": 4.38,
+                "temp_min": 5.49,
+                "temp_max": 5.49,
+                "pressure": 1033,
+                "sea_level": 1033,
+                "grnd_level": 979,
+                "humidity": 44,
+                "temp_kf": 0
+            },
+            "weather": [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "cer senin",
+                    "icon": "01d"
+                }
+            ],
+            "clouds": {
+                "all": 0
+            },
+            "wind": {
+                "speed": 1.6,
+                "deg": 218,
+                "gust": 1.09
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+                "pod": "d"
+            },
+            "dt_txt": "2025-03-20 09:00:00"
+        },
+        {
+            "dt": 1742472000,
+            "main": {
+                "temp": 8.23,
+                "feels_like": 8.23,
+                "temp_min": 8.23,
+                "temp_max": 8.23,
+                "pressure": 1031,
+                "sea_level": 1031,
+                "grnd_level": 977,
+                "humidity": 39,
+                "temp_kf": 0
+            },
+            "weather": [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "cer senin",
+                    "icon": "01d"
+                }
+            ],
+            "clouds": {
+                "all": 0
+            },
+            "wind": {
+                "speed": 1.03,
+                "deg": 262,
+                "gust": 0.75
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+                "pod": "d"
+            },
+            "dt_txt": "2025-03-20 12:00:00"
+        },
+        {
+            "dt": 1742482800,
+            "main": {
+                "temp": 8.4,
+                "feels_like": 8.4,
+                "temp_min": 8.4,
+                "temp_max": 8.4,
+                "pressure": 1030,
+                "sea_level": 1030,
+                "grnd_level": 976,
+                "humidity": 39,
+                "temp_kf": 0
+            },
+            "weather": [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "cer senin",
+                    "icon": "01d"
+                }
+            ],
+            "clouds": {
+                "all": 0
+            },
+            "wind": {
+                "speed": 0.67,
+                "deg": 285,
+                "gust": 0.78
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+                "pod": "d"
+            },
+            "dt_txt": "2025-03-20 15:00:00"
+        },
+        {
+            "dt": 1742493600,
+            "main": {
+                "temp": 4.47,
+                "feels_like": 4.47,
+                "temp_min": 4.47,
+                "temp_max": 4.47,
+                "pressure": 1031,
+                "sea_level": 1031,
+                "grnd_level": 977,
+                "humidity": 53,
+                "temp_kf": 0
+            },
+            "weather": [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "cer senin",
+                    "icon": "01n"
+                }
+            ],
+            "clouds": {
+                "all": 0
+            },
+            "wind": {
+                "speed": 1.01,
+                "deg": 60,
+                "gust": 0.93
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+                "pod": "n"
+            },
+            "dt_txt": "2025-03-20 18:00:00"
+        },
+        {
+            "dt": 1742504400,
+            "main": {
+                "temp": 2.49,
+                "feels_like": 0.94,
+                "temp_min": 2.49,
+                "temp_max": 2.49,
+                "pressure": 1031,
+                "sea_level": 1031,
+                "grnd_level": 977,
+                "humidity": 63,
+                "temp_kf": 0
+            },
+            "weather": [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "cer senin",
+                    "icon": "01n"
+                }
+            ],
+            "clouds": {
+                "all": 0
+            },
+            "wind": {
+                "speed": 1.6,
+                "deg": 63,
+                "gust": 1.4
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+                "pod": "n"
+            },
+            "dt_txt": "2025-03-20 21:00:00"
+        },
+        {
+            "dt": 1742515200,
+            "main": {
+                "temp": 1.44,
+                "feels_like": 1.44,
+                "temp_min": 1.44,
+                "temp_max": 1.44,
+                "pressure": 1031,
+                "sea_level": 1031,
+                "grnd_level": 976,
+                "humidity": 66,
+                "temp_kf": 0
+            },
+            "weather": [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "cer senin",
+                    "icon": "01n"
+                }
+            ],
+            "clouds": {
+                "all": 0
+            },
+            "wind": {
+                "speed": 1.32,
+                "deg": 66,
+                "gust": 1.22
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+                "pod": "n"
+            },
+            "dt_txt": "2025-03-21 00:00:00"
+        },
+        {
+            "dt": 1742526000,
+            "main": {
+                "temp": 0.91,
+                "feels_like": 0.91,
+                "temp_min": 0.91,
+                "temp_max": 0.91,
+                "pressure": 1031,
+                "sea_level": 1031,
+                "grnd_level": 976,
+                "humidity": 67,
+                "temp_kf": 0
+            },
+            "weather": [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "cer senin",
+                    "icon": "01n"
+                }
+            ],
+            "clouds": {
+                "all": 0
+            },
+            "wind": {
+                "speed": 1.06,
+                "deg": 64,
+                "gust": 0.99
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+                "pod": "n"
+            },
+            "dt_txt": "2025-03-21 03:00:00"
+        },
+        {
+            "dt": 1742536800,
+            "main": {
+                "temp": 3.52,
+                "feels_like": 3.52,
+                "temp_min": 3.52,
+                "temp_max": 3.52,
+                "pressure": 1031,
+                "sea_level": 1031,
+                "grnd_level": 976,
+                "humidity": 58,
+                "temp_kf": 0
+            },
+            "weather": [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "cer senin",
+                    "icon": "01d"
+                }
+            ],
+            "clouds": {
+                "all": 0
+            },
+            "wind": {
+                "speed": 0.82,
+                "deg": 100,
+                "gust": 1.01
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+                "pod": "d"
+            },
+            "dt_txt": "2025-03-21 06:00:00"
+        },
+        {
+            "dt": 1742547600,
+            "main": {
+                "temp": 8.41,
+                "feels_like": 7.41,
+                "temp_min": 8.41,
+                "temp_max": 8.41,
+                "pressure": 1029,
+                "sea_level": 1029,
+                "grnd_level": 975,
+                "humidity": 41,
+                "temp_kf": 0
+            },
+            "weather": [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "cer senin",
+                    "icon": "01d"
+                }
+            ],
+            "clouds": {
+                "all": 0
+            },
+            "wind": {
+                "speed": 1.92,
+                "deg": 198,
+                "gust": 1.86
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+                "pod": "d"
+            },
+            "dt_txt": "2025-03-21 09:00:00"
+        },
+        {
+            "dt": 1742558400,
+            "main": {
+                "temp": 11.56,
+                "feels_like": 9.61,
+                "temp_min": 11.56,
+                "temp_max": 11.56,
+                "pressure": 1027,
+                "sea_level": 1027,
+                "grnd_level": 974,
+                "humidity": 32,
+                "temp_kf": 0
+            },
+            "weather": [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "cer senin",
+                    "icon": "01d"
+                }
+            ],
+            "clouds": {
+                "all": 0
+            },
+            "wind": {
+                "speed": 1.23,
+                "deg": 190,
+                "gust": 1.35
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+                "pod": "d"
+            },
+            "dt_txt": "2025-03-21 12:00:00"
+        },
+        {
+            "dt": 1742569200,
+            "main": {
+                "temp": 11.72,
+                "feels_like": 9.78,
+                "temp_min": 11.72,
+                "temp_max": 11.72,
+                "pressure": 1025,
+                "sea_level": 1025,
+                "grnd_level": 972,
+                "humidity": 32,
+                "temp_kf": 0
+            },
+            "weather": [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "cer senin",
+                    "icon": "01d"
+                }
+            ],
+            "clouds": {
+                "all": 0
+            },
+            "wind": {
+                "speed": 0.68,
+                "deg": 177,
+                "gust": 1.24
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+                "pod": "d"
+            },
+            "dt_txt": "2025-03-21 15:00:00"
+        },
+        {
+            "dt": 1742580000,
+            "main": {
+                "temp": 6.94,
+                "feels_like": 5.91,
+                "temp_min": 6.94,
+                "temp_max": 6.94,
+                "pressure": 1025,
+                "sea_level": 1025,
+                "grnd_level": 972,
+                "humidity": 45,
+                "temp_kf": 0
+            },
+            "weather": [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "cer senin",
+                    "icon": "01n"
+                }
+            ],
+            "clouds": {
+                "all": 0
+            },
+            "wind": {
+                "speed": 1.72,
+                "deg": 50,
+                "gust": 1.53
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+                "pod": "n"
+            },
+            "dt_txt": "2025-03-21 18:00:00"
+        },
+        {
+            "dt": 1742590800,
+            "main": {
+                "temp": 5.06,
+                "feels_like": 3.48,
+                "temp_min": 5.06,
+                "temp_max": 5.06,
+                "pressure": 1025,
+                "sea_level": 1025,
+                "grnd_level": 971,
+                "humidity": 52,
+                "temp_kf": 0
+            },
+            "weather": [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "cer senin",
+                    "icon": "01n"
+                }
+            ],
+            "clouds": {
+                "all": 0
+            },
+            "wind": {
+                "speed": 1.96,
+                "deg": 72,
+                "gust": 1.67
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+                "pod": "n"
+            },
+            "dt_txt": "2025-03-21 21:00:00"
+        },
+        {
+            "dt": 1742601600,
+            "main": {
+                "temp": 4.08,
+                "feels_like": 2.74,
+                "temp_min": 4.08,
+                "temp_max": 4.08,
+                "pressure": 1024,
+                "sea_level": 1024,
+                "grnd_level": 970,
+                "humidity": 53,
+                "temp_kf": 0
+            },
+            "weather": [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "cer senin",
+                    "icon": "01n"
+                }
+            ],
+            "clouds": {
+                "all": 0
+            },
+            "wind": {
+                "speed": 1.62,
+                "deg": 66,
+                "gust": 1.37
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+                "pod": "n"
+            },
+            "dt_txt": "2025-03-22 00:00:00"
+        },
+        {
+            "dt": 1742612400,
+            "main": {
+                "temp": 3.45,
+                "feels_like": 3.45,
+                "temp_min": 3.45,
+                "temp_max": 3.45,
+                "pressure": 1023,
+                "sea_level": 1023,
+                "grnd_level": 969,
+                "humidity": 53,
+                "temp_kf": 0
+            },
+            "weather": [
+                {
+                    "id": 802,
+                    "main": "Clouds",
+                    "description": "nori \u00eempr\u0103\u0219tia\u021bi",
+                    "icon": "03n"
+                }
+            ],
+            "clouds": {
+                "all": 39
+            },
+            "wind": {
+                "speed": 1.27,
+                "deg": 67,
+                "gust": 1.19
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+                "pod": "n"
+            },
+            "dt_txt": "2025-03-22 03:00:00"
+        },
+        {
+            "dt": 1742623200,
+            "main": {
+                "temp": 5.52,
+                "feels_like": 5.52,
+                "temp_min": 5.52,
+                "temp_max": 5.52,
+                "pressure": 1023,
+                "sea_level": 1023,
+                "grnd_level": 969,
+                "humidity": 52,
+                "temp_kf": 0
+            },
+            "weather": [
+                {
+                    "id": 803,
+                    "main": "Clouds",
+                    "description": "cer fragmentat",
+                    "icon": "04d"
+                }
+            ],
+            "clouds": {
+                "all": 51
+            },
+            "wind": {
+                "speed": 0.87,
+                "deg": 82,
+                "gust": 0.9
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+                "pod": "d"
+            },
+            "dt_txt": "2025-03-22 06:00:00"
+        },
+        {
+            "dt": 1742634000,
+            "main": {
+                "temp": 10.28,
+                "feels_like": 8.49,
+                "temp_min": 10.28,
+                "temp_max": 10.28,
+                "pressure": 1021,
+                "sea_level": 1021,
+                "grnd_level": 968,
+                "humidity": 43,
+                "temp_kf": 0
+            },
+            "weather": [
+                {
+                    "id": 804,
+                    "main": "Clouds",
+                    "description": "cer acoperit de nori",
+                    "icon": "04d"
+                }
+            ],
+            "clouds": {
+                "all": 100
+            },
+            "wind": {
+                "speed": 1.44,
+                "deg": 179,
+                "gust": 1.79
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+                "pod": "d"
+            },
+            "dt_txt": "2025-03-22 09:00:00"
+        }
+    ],
+    "city": {
+        "id": 668997,
+        "name": "Reghin",
+        "coord": {
+            "lat": 46.7742,
+            "lon": 24.7022
+        },
+        "country": "RO",
+        "population": 0,
+        "timezone": 7200,
+        "sunrise": 1742185816,
+        "sunset": 1742228933
+    }
+}
